@@ -1,0 +1,1 @@
+Welcome to the Tootsie Pop Guessing Game! This is a simple guessing game I made using Javascript, HTML, and CSS. When you enter a guess, it tells you whether your guess is too high or too low and adds it to a list of your previous guesses. Each turn, it generates a hint by taking the middle number between your lowest "too high" guess and highest "too low" guess.
